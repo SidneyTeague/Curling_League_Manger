@@ -41,6 +41,6 @@ to remove a team member or if you need to edit any member information.
 
 ## Features
 
-Manage curling league, teams, and team member
-Import and export data from CSV files
++ Manage curling league, teams, and team member
++ Import and export data from CSV files
 	
