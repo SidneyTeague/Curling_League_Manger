@@ -16,10 +16,12 @@
 
 1. Clone the repositroy:
 ```
-git clone [link]
+git clone [[link]](https://github.com/SidneyTeague/Curling_League_Manger.git)
 ```
 2. Install dependencies
-		pip install -r [requirements.txt]
+```
+pip install -r [requirements.txt]
+```
 
 ## Usage
 Run the application by executing 'main_window.py':
